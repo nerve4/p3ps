@@ -10,10 +10,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
-- move `NAME_tests.py` under tests directory
-
 
 ### Changed
+
+- move `NAME_tests.py` under tests directory
 
 
 ### Fixed
